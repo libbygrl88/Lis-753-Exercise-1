@@ -1,4 +1,4 @@
-h1 {background: orange; 
+h1 {background: orange;
   color: green; font-family: verdana; }
 figure {
   border: 2px solid orange;
@@ -7,4 +7,25 @@ figure img{max-width: 100%; height: auto; margin-bottom: 10px
 }
 p {background: #eab676; color: #1b6d0a
 }
-p img {float: right; bottom-margin: 32px; max-width: 50%; margin left:10px}
+p img {float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
+nav ul {
+  background-color: #C58406;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding-left: 0;
+  border: 3px solid #186f17;
+  }
+nav ul li a {
+  color: #065a05;
+  text-decoration: none;
+  padding: 8px;
+  border-bottom: 2px solid #186f17;
+  display: block;
+  }
+nav ul li a:hover {
+  background-color: #186f17
+}
+nav ul li:last-child a {
+  border-bottom: none;
+}
