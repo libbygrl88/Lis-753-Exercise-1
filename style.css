@@ -1,5 +1,5 @@
-h1 {background: orange;
-  color: green; font-family: verdana; }
+h1 {background: #E040c6;
+  color: #000000; font-family: verdana; }
 figure {
   border: 2px solid black;
 }
@@ -17,14 +17,14 @@ nav ul {
   border: 3px solid #186f17;
   }
 nav ul li a {
-  color: #065a05;
+  color: #Dc0ebb;
   text-decoration: none;
   padding: 8px;
-  border-bottom: 2px solid #186f17;
+  border-bottom: 2px solid #000000;
   display: block;
   }
 nav ul li a:hover {
-  background-color: #186f17
+  background-color: #776e75
 }
 nav ul li:last-child a {
   border-bottom: none;
