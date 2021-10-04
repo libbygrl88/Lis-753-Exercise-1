@@ -9,12 +9,12 @@ p {background: #F18de1; color: #000000
 }
 p img {float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
 nav ul {
-  background-color: #C58406;
+  background-color: #Dc0ebb;
   display: flex;
   justify-content: space-around;
   list-style: none;
   padding-left: 0;
-  border: 3px solid #186f17;
+  border: 3px solid #000000;
   }
 nav ul li a {
   color: #Dc0ebb;
