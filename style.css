@@ -1,11 +1,11 @@
 h1 {background: orange;
   color: green; font-family: verdana; }
 figure {
-  border: 2px solid orange;
+  border: 2px solid black;
 }
 figure img{max-width: 100%; height: auto; margin-bottom: 10px
 }
-p {background: #eab676; color: #1b6d0a
+p {background: #F18de1; color: #000000
 }
 p img {float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
 nav ul {
