@@ -12,9 +12,12 @@ figure {
 figure img{max-width: 100%; height: auto; margin-bottom: 10px
 }
 figure.main-image{
-  background:##Ce16da
-  border-color: #8b0594
-  color:black
+  background:##Ce16da;
+  border-color: #8b0594;
+  color:black;
+}
+figure.section-image{ background:#F27ef9;
+border-color:#B10dbb; color: black;
 }
 p {background: #F18de1; color: #000000
 }
