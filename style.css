@@ -1,5 +1,11 @@
-h1 {background: #E040c6;
-  color: #000000; font-family: verdana; }
+h1#site-title{background: #E040c6;
+  color: #000000; font-family: verdana;
+
+}
+h1#article-title{background: #E040c6;
+  color: #000000; font-family: verdana;
+
+}
 figure {
   border: 2px solid black;
 }
