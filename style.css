@@ -11,14 +11,14 @@ figure {
 }
 figure img{max-width: 100%; height: auto; margin-bottom: 10px
 }
-figure.main-image {
+figure.main-image{
   background:##Ce16da
   border-color: #8b0594
   color:black
 }
 p {background: #F18de1; color: #000000
 }
-p img {float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
+p img{float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
 nav ul {
   background-color: #Dc0ebb;
   display: flex;
