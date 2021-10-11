@@ -13,6 +13,7 @@ figure.main-image{
   background:#F069fb;
   border-color: #8b0594;
   color:black;
+  width: auto;
 }
 figure.section-image{ background:#Ee9ef5;
 border-color:#B10dbb;
