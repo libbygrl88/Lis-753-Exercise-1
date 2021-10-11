@@ -14,10 +14,10 @@ figure img{max-width: 100%; height: auto; margin-bottom: 10px
 figure.main-image{
   background:#F069fb;
   border-color: #8b0594;
-  color:black; max-width: 100%:
+  color:black;
 }
 figure.section-image{ background:#Ee9ef5;
-border-color:#B10dbb; color: black;
+border-color:#B10dbb;
 }
 p {background:#F069fb; color: #000000
 }
