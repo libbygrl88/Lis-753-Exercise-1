@@ -13,3 +13,5 @@ nav ul li a {
   border-bottom: 2px solid ;
   display: block;
   }
+  nav ul li:last-child a {
+    border-bottom: none;
