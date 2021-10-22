@@ -28,4 +28,7 @@ nav ul li a:hover {
 nav ul li:last-child a {
   border-bottom: none;
 }
+p.section-title{
+  background:#E83f13}
+}
 #footer {background: #D81b06}
