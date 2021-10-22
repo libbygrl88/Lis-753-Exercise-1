@@ -13,7 +13,13 @@ nav ul li a {
   border-bottom: 2px solid ;
   display: block;
   }
-  nav ul li:last-child a {
+nav ul li:last-child a {
     border-bottom: none;}
-  p {background:#F069fb; color: #000000
+p {background:#F069fb; color: #000000
+    }
+figure.main-image{
+      background:#F069fb;
+      border-color: #8b0594;
+      color:black;
+      width: inherit;
     }
