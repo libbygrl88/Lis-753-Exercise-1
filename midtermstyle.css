@@ -3,7 +3,7 @@ h1#site-title{background: #F1110b;
 }
 p{ background:#7af782}
 table {background-color:
-#4cf91d; text-align: center;}
+#4cf91d; align-content: center;}
 h2#article-title {
   text-align: center;
 }
