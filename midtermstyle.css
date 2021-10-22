@@ -1,6 +1,10 @@
-h1#site-title{background: #F1110b;
+h1#sihrte-title{background: #F1110b;
   color: #000000; font-family: verdana; text-align: center;
 }
 p{ background-color: ##7af782}
 table {background-color: #86f78d
-border:4px solid #3aad13}
+border:4px solid #3aad13
+}
+h2#article-title {
+  text-align: center;
+}
