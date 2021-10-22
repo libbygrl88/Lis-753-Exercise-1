@@ -14,4 +14,6 @@ nav ul li a {
   display: block;
   }
   nav ul li:last-child a {
-    border-bottom: none;
+    border-bottom: none;}
+  p {background:#F069fb; color: #000000
+    }
