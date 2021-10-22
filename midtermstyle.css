@@ -29,5 +29,4 @@ nav ul li a:hover {
 nav ul li:last-child a {
   border-bottom: none;
 }
-#footer {position: absolute;
-bottom:0}
+#footer {background: #D81b06}
