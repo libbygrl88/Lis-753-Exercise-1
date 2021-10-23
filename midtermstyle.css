@@ -9,18 +9,4 @@ nav ul {
   padding-left: 0;
   border: 3px solid #000000;
   }
-nav ul li a {
-  color: #000000;
-  text-decoration: none;
-  padding: 8px;
-  border-bottom: 2px solid #000000;
-  display: block;
-  }
-nav ul li a:hover {
-  background-color: #776e75
-}
-nav ul li:last-child a {
-  border-bottom: none;
-}
-p{background-color: #60FC34}
 footer#footer{text-align: center;}
