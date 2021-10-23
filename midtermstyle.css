@@ -1,6 +1,7 @@
 h1#site-title{
   background-color: #FC4831;text-align: center;
 }
+h1#article-title{text-align: center;}
 nav ul{text-align: center;
   background-color:#FC4831;
   display: flex;
