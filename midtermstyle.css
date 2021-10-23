@@ -10,7 +10,7 @@ h2#article-title { background-color:#F1110b;
 nav ul {
   background-color: #F91d1d;
   display: flex;
-  justify-content: space-around;
+  justify-content:space-between;
   list-style: none;
   padding-left: 0;
   border: 3px solid #000000;
