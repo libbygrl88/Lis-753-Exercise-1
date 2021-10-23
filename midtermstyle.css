@@ -5,7 +5,14 @@ nav ul{text-align: center;
   background-color:#EA301C;
   display: flex;
   justify-content: space-around;
-  list-style: none;color: black;
+  list-style: none;
   }
+  nav ul li a {
+    color: #000000;
+    text-decoration: none;
+    padding: 8px;
+    border-bottom: 2px solid #000000;
+    display: block;
+    }
 table.center {background-color: #9CFC3F}
 footer#footer{text-align: center; background-color: #EA301C}
