@@ -8,6 +8,8 @@ nav ul{text-align: center;
   list-style: none;
   }
   nav ul li a:hover {background-color: #776e75}
+p{background-color: #39FC2C}
+
 
 table.center {background-color: #9CFC3F}
 footer#footer{text-align: center; background-color: #EA301C}
