@@ -1,12 +1,5 @@
 h1#site-title{
   background-color: #EA301C;text-align: center;
 }
-nav ul {
-  background-color:#EA301C ;
-  display: flex;
-  justify-content: space-around;
-  list-style: none;
-  padding-left: 0;
-  border: 3px solid #000000;
-  }
+nav ul{text-align: center;background-color:#EA301C }
 footer#footer{text-align: center;}
