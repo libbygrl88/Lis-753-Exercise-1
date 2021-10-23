@@ -1,8 +1,8 @@
 h1#site-title{
-  background-color: #EA301C;text-align: center;
+  background-color: #FC4831;text-align: center;
 }
 nav ul{text-align: center;
-  background-color:#EA301C;
+  background-color:#FC4831;
   display: flex;
   justify-content: space-around;
   list-style: none;
