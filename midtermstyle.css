@@ -14,5 +14,7 @@ nav ul{text-align: center;
     border-bottom: 2px solid #000000;
     display: block;
     }
+    nav ul li a:hover {
+      background-color: #776e75  
 table.center {background-color: #9CFC3F}
 footer#footer{text-align: center; background-color: #EA301C}
