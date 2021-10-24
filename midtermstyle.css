@@ -1,7 +1,7 @@
 h1#site-title{
   background-color: #FC4831;text-align: center; font-size: 50px;
 }
-h1#article-title{ background-color:#FC4831; text-align: center;}
+h1#article-title{ background-color:#FC4831; text-align: center; font-size: 40px}
 nav ul{text-align: center;
   background-color:#FA6853;
   color:#000000;display: flex;
