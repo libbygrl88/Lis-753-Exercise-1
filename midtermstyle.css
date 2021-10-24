@@ -11,7 +11,7 @@ nav ul{text-align: center;
   nav ul li a:hover {background-color: #776e75}
   figure#main-image{
     background:#70F45C;
-    border-color: #D62C13;border-radius: 5px
+    border: 6px solid #42AD33;
     color:black;
     width: auto;
   }
