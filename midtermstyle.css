@@ -16,8 +16,6 @@ nav ul{text-align: center;
     width: 40%;
   }
 p{font-size: 25px}
-
-
-table.center {background-color: #9CFC3F}
+p#contact-information {font: bold}
 footer#footer{text-align: center; background-color: #EA301C
 }
