@@ -8,7 +8,7 @@ nav ul{text-align: center;
   justify-content: space-around;
   list-style: none; font-size: 30px;
   }
-  nav ul li a{text-decoration: underline;}
+  nav ul li a hover{text-decoration: underline;}
   figure#main-image{
     background:#70F45C;
     border: 6px solid #42AD33;
