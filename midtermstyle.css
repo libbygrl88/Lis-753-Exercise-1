@@ -10,8 +10,8 @@ nav ul{text-align: center;
   }
   nav ul li a:hover {background-color: #776e75}
   figure#main-image{
-    background:#75F962;
-    border-color: #D62C13;
+    background:#70F45C;
+    border-color: #D62C13;border-radius: 5px
     color:black;
     width: auto;
   }
