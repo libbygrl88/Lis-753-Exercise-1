@@ -9,12 +9,12 @@ nav ul{text-align: center;
   list-style: none;
   }
   nav ul li a:hover {background-color: #776e75}
-  figure.main-image{
+  figure#main-image{
     background:#F069fb;
     border-color: #8b0594;
     color:black;
     width: inherit;
-  }  
+  }
 p{background-color: #39FC2C}
 
 
