@@ -1,7 +1,7 @@
 h1#site-title{
-  background-color: #FC4831;text-align: center; font-size: 50px;
+  background-color: #EFC633;text-align: center; font-size: 50px;
 }
-h1#article-title{ background-color:#FC4831; text-align: center; font-size: 40px}
+h1#article-title{ background-color:#EFC633; text-align: center; font-size: 40px}
 nav ul{text-align: center;
   background-color:#FA6853;
   color:#000000;display: flex;
@@ -20,5 +20,4 @@ p{font-size: 25px}
 p#contact-information {font: bold
 }
 table#apple-picking-table {background-color: }
-footer#footer{text-align: center; background-color: #EA301C
-}
+footer#footer{text-align: center; background-color: #EFC633}
