@@ -13,7 +13,7 @@ nav ul{text-align: center;
     background:#75F962;
     border-color: #D62C13;
     color:black;
-    width: inherit;
+    width: auto;
   }
 h2.section-title { font: 27px}
 p{font-size: 25px}
