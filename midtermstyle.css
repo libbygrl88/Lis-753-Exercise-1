@@ -19,5 +19,5 @@ h2.section-title { font: 27px}
 p{font-size: 25px}
 p#contact-information {font-weight: bold;}
 }
-table, tr, th{border:1px solid black}
+table {border:1px solid black}
 footer#page-footer {text-align: center; background-color: #EFC633}
