@@ -17,11 +17,7 @@ nav ul li a{
   display: block;
 
 nav ul li a:h{background-color: #776e75}
-figure#main-image{
-    background:#ADE73F;
-    color:black;
-    width: auto;
-  }
+  figure#main-image{ background: #BFEF18;
 h2.section-title { font: 35px;background-color: #FACD3D;}
 p{font-size: 20px;background-color: #C4F961}
 p#contact-information {font-weight: bold;}
