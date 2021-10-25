@@ -33,13 +33,14 @@ nav ul li a:hover {
 }
 nav ul li:last-child a {
   border-bottom: none;}
-h2.section-title {font-size: 30px}
+h2.section-title {
+  font-size: 30px;
+  background-color:#F6F64A }
 p {
   font-size: 20px;
 }
 p.information {
   font-weight: bold;
   font-size: 20px;
-  background-color: #776e75
 }
 footer#page-footer {background:#A8EC41 }
