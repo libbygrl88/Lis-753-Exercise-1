@@ -38,6 +38,8 @@ p {
   font-size: 20px;
 }
 p.information {
-  font-weight: bold;font-size: 20px
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #776e75
 }
 footer#page-footer {background:#A8EC41 }
