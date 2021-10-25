@@ -1,6 +1,6 @@
 h1#site-title{
-  background-color: #FACD3D;text-align: center; font-size: 50px;
-  border: 3px:border-color:#F5A608;
+  background-color: #FACD3D;text-align: center; font-size: 50px;border: 3px;border-color: #F5A608
+
 }
 h1#article-title{ background-color:#FACD3D; text-align: center; font-size: 45px}
 nav ul{text-align: center;
