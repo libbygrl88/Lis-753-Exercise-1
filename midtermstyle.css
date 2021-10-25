@@ -16,7 +16,7 @@ nav ul{text-align: center;
     width: auto;
   }
 h2.section-title { font: 35px}
-p{font-size: 20px}
+p{font-size: 20px;background-color: #C4F961}
 p#contact-information {font-weight: bold;}
 }
 table, th, td {
