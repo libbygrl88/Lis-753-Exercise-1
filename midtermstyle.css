@@ -16,7 +16,6 @@ nav ul {
   justify-content: space-around;
   list-style: none;
   padding-left: 0;
-  border: 3px solid #000000;
   }
 nav ul li a {
   color: #000000;
