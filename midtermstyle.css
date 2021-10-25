@@ -2,7 +2,7 @@ h1#site-title{
   background-color: #FACD3D;text-align: center; font-size: 50px;border: 3px;border-color: #F5A608
 
 }
-h1#article-title{ background-color:#FACD3D; text-align: center; font-size: 45px}
+h1#article-title{ background-color:#FACD3D; text-align: left; font-size: 45px}
 nav ul{text-align: center;
   background-color:#E9C236;
   color:#000000;display: flex;
