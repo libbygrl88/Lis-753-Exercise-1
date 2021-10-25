@@ -26,7 +26,4 @@ h2.section-title { font: 35px;background-color: #FACD3D;}
 p{font-size: 20px;background-color: #C4F961}
 p#contact-information {font-weight: bold;}
 }
-table, th, td {
-  border: 1px solid black;
-}
 footer#page-footer{background: #FACD3D}
