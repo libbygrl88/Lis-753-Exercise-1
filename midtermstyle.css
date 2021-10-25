@@ -29,4 +29,5 @@ nav ul li a:hover {
   background-color: #776e75
 }
 nav ul li:last-child a {
-  border-bottom: none;
+  border-bottom: none;}
+h2.section-title {font-size: 30px}
