@@ -19,7 +19,6 @@ h2.section-title { font: 35px}
 p{font-size: 20px;background-color: #C4F961}
 p#contact-information {font-weight: bold;}
 }
-table, th, td {
-  border: 1px solid black;
+p#schedule-table{background: #F9E246}
 }
 footer#page-footer{background: #FACD3D}
