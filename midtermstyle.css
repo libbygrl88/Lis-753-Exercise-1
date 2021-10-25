@@ -6,7 +6,7 @@ h1#article-title{ background-color:#FACD3D; text-align: left; font-size: 45px}
 nav ul{text-align: center;
   background-color:#E9C236;
   color:#000000;display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   list-style: none; font-size: 35px;
   }
   nav ul li a hover{text-decoration: underline;background-color: #B0B8C0}
