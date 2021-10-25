@@ -9,7 +9,13 @@ nav ul{text-align: center;
   justify-content: space-around;
   list-style: none; font-size: 35px;
   }
-  nav ul li a: hover{text-decoration: underline;background-color: #B0B8C0}
+nav ul a{
+  color: 000000;
+  text-decoration: none;
+  padding: 8px;
+  border-bottom: 2px solid #000000;
+  display: block;
+}
   figure#main-image{
     background:#ADE73F;
     color:black;
