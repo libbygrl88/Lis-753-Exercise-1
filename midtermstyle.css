@@ -8,3 +8,23 @@ h1#article-title{
   font-size: 45px
 }
 figure#main-image{background: #A8EC41}
+nav ul {
+  background-color: #Dc0ebb;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding-left: 0;
+  border: 3px solid #000000;
+  }
+nav ul li a {
+  color: #000000;
+  text-decoration: none;
+  padding: 8px;
+  border-bottom: 2px solid #000000;
+  display: block;
+  }
+nav ul li a:hover {
+  background-color: #776e75
+}
+nav ul li:last-child a {
+  border-bottom: none;
