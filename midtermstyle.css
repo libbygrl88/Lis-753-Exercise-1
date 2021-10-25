@@ -9,7 +9,10 @@ h1#article-title{
   font-size: 45px;
   text-align: center;
 }
-figure#main-image{background: #A8EC41}
+figure#main-image{
+  background: #A8EC41;
+  font-size: 20px
+}
 nav ul {
   background-color:#F6F64A ;
   display: flex;
