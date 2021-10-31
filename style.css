@@ -18,7 +18,8 @@ figure.main-image{
   width: inherit;
 }
 @media all and (min-width: 768) {
-figure.section-image{ background: #F069fb;
+figure.section-image{
+  background: #F069fb;
 border-color:#B10dbb;
 }
 p {background:#F069fb; color: #000000
