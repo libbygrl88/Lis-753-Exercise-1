@@ -18,7 +18,7 @@ figure.main-image{
   width: inherit;
 }
 @media all and (min-width: 768) {
-figure.section-image{ background:#Ee9ef5;
+figure.section-image{ background: #F069fb;
 border-color:#B10dbb;
 }
 p {background:#F069fb; color: #000000
@@ -33,5 +33,4 @@ nav ul {
 nav ul li {}
 nav ul li a {
   text-decoration: none;
-
 }
