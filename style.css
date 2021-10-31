@@ -24,10 +24,7 @@ border-color:#B10dbb;
 p {background:#F069fb; color: #000000
 }
 p img{float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
-
-
-@media all and (min-width: 376px) {
-  nav ul li{
+nav ul li{
     list-style: none;
     display: flex;
     background:#E040c6
