@@ -13,6 +13,9 @@ nav ul {
     gap: 30px;
     background-color: #E040c6
     }
+nav ul li a:hover {
+  background-color: #776e75
+}
 figure {
   border: 2px solid black;
 }
@@ -28,7 +31,6 @@ figure.main-image{
   color:black;
   width: inherit;
 }
-@media all and (min-width: 768) {
 figure.section-image{
   background: #F069fb;
   border-color:#B10dbb;
