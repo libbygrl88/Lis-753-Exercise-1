@@ -2,6 +2,17 @@ h1#site-title{background:#E040c6 }
 h1#article-title{background: #E040c6;
   color: #000000; font-family: verdana;
 }
+nav ul {
+  list-style: none;
+  padding-left: 0;
+}
+@media all and (min-width: 376px) {
+  nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #E040c6
+    }
 figure {
   border: 2px solid black;
 }
@@ -20,21 +31,8 @@ figure.main-image{
 @media all and (min-width: 768) {
 figure.section-image{
   background: #F069fb;
-border-color:#B10dbb;
+  border-color:#B10dbb;
 }
 p {background:#F069fb; color: #000000
 }
 p img{float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
-nav ul {
-  display: inline-block;
-  list-style: none;
-  padding-left: 0
-}
-nav ul li {}
-nav ul li a {
-  background-color: #F069fb;
-  text-decoration: none;
-}
-nav ul li a:hover{
-  background-color: #776e75;
-}
