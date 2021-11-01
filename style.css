@@ -14,10 +14,10 @@ nav ul {
     justify-content: center;
     gap: 30px;
     background-color: #E040c6
+    color: black
     }
 nav ul li a:hover {
   background-color: #776e75;
-  color: black;
 }
 figure {
   border: 2px solid black;
