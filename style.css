@@ -16,7 +16,8 @@ nav ul {
     background-color: #E040c6
     }
 nav ul li a:hover {
-  background-color: #776e75
+  background-color: #776e75;
+  color: black;
 }
 figure {
   border: 2px solid black;
