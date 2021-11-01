@@ -25,7 +25,10 @@ img {
   max-width: 100%
   height: auto;
 }
-figure img{max-width: 100%; height: auto; margin-bottom: 10px
+figure img{
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px
 }
 figure.main-image{
   background:#F069fb;
