@@ -17,7 +17,7 @@ nav ul {
     }
 nav ul li a {
   color: black;
-  font-size: 30px;
+  font-size: 20px;
 }
 nav ul li a:hover {
   background-color: #776e75;
