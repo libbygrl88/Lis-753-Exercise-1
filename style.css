@@ -44,6 +44,7 @@ figure.section-image{
   background: #F069fb;
   border-color:#B10dbb;
 }
-p {background:#F069fb; color: #000000
+p {background:#F069fb; color: #000000;
+  font-size: 20px
 }
 p img{float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
