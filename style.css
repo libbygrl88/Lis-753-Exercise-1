@@ -48,3 +48,7 @@ p {background:#F069fb; color: #000000;
   font-size: 20px
 }
 p img{float: right; margin-bottom: 32px; max-width: 50%; margin-left: 10px}
+body.dark-mode{
+  background: #424546;
+  color: #ffffff
+}
