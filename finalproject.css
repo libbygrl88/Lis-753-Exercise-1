@@ -11,5 +11,16 @@ nav ul li a {
   padding: 8 px;
   border-bottom: 2px solid #000000;
   display: block;
-
+}
+nav ul li a:hover {
+  background-color: #776e75
+}
+h2.section-title {
+  font-size: 30px;
+  background-color:#FAF74E }
+p {
+  font-size: 25px
+}
+footer#page-footer {
+  background: #0EF6E4
 }
