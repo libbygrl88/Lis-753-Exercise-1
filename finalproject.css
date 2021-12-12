@@ -39,7 +39,7 @@ footer#page-footer {
 }
 
 img.section-image{
-  height: auto;
+  height: inherit;
   margin-bottom: 10px;
   min-width: 100%;
 }
