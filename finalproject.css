@@ -1,19 +1,20 @@
 h1#site-title {
   text-align: center;
-  font-size: 45px;
+  font-size: 50px;
   background-color:#E7F42D;
 }
 h1.article-title {
-  font-size: 35px;
+  font-size: 40px;
   background-color: #0EF6E4;
-
+  text-align: center;
 }
 nav ul{
+  background-color:#0EF6E4 ;
   display: flex;
-  justify-content: center;
-  gap: 30px;
-  background-color: #0AEDDB
-}
+  justify-content: space-around;
+  list-style: none;
+  padding-left: 0;
+  }
 nav ul li a {
   color: #000000;
   text-decoration:none;
@@ -26,20 +27,20 @@ nav ul li a:hover {
   background-color: #776e75;
 }
 h2.section-title {
-  font-size: 35 px;
+  font-size: 40px;
   background-color: #E7F42D
 }
-}
 p {
-  font-size:30px;
+  background: #79F5FE;
+  font-size: 30px;
 }
 footer#page-footer {
   font-size: 30px;
-  background: #0EF6E4
+  background: #0EF6E4;
 }
-
-img.section-image{
-  height: inherit;
-  margin-bottom: 10px;
-  min-width: 100%;
+ol{
+  font-size: 25px;
+}
+figure.section-image {
+  background: #E7F42D;
 }
