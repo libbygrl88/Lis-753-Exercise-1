@@ -1,3 +1,13 @@
+h1#site-title {
+  text-align: center;
+  font-size: 45px;
+  background-color:#E7F42D;
+}
+h1.article-title {
+  font-size: 35px;
+  background-color: #0EF6E4;
+
+}
 nav ul{
   display: flex;
   justify-content: center;
@@ -7,21 +17,29 @@ nav ul{
 nav ul li a {
   color: #000000;
   text-decoration:none;
-  font-size: 40px;
+  font-size: 35px;
   padding: 8 px;
   border-bottom: 2px solid #000000;
   display: block;
 }
 nav ul li a:hover {
-  background-color: #776e75
+  background-color: #776e75;
 }
 h2.section-title {
-  font-size: 35px;
-  background: #FAF74E;
+  font-size: 35 px;
+  background-color: #E7F42D
+}
 }
 p {
-  font-size: 25px
+  font-size:30px;
 }
 footer#page-footer {
+  font-size: 30px;
   background: #0EF6E4
+}
+
+img.section-image{
+  height: auto;
+  margin-bottom: 10px;
+  min-width: 100%;
 }
