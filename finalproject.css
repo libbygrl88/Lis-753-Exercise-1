@@ -8,6 +8,7 @@ h1.article-title {
   background-color: #0EF6E4;
   text-align: center;
 }
+@media all and (min-width: 380px) {
 nav ul{
   background-color:#0EF6E4 ;
   display: flex;
