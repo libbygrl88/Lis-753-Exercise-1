@@ -38,8 +38,9 @@ footer#page-footer {
   font-size: 30px;
   background: #0EF6E4;
 }
-ol{
+ol.list {
   font-size: 25px;
+  background:  #79F5FE;
 }
 figure.section-image {
   background: #E7F42D;
