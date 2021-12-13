@@ -45,7 +45,10 @@ ol.list {
 figure.section-image {
   background: #E7F42D;
   border: 3px solid #ffffff
+  max-width: 100%
 }
 figure#main-image {
   background:  #E7F42D;
+  max-width: 100%
 }
+grid-column-start: auto;
