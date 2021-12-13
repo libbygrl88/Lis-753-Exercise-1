@@ -42,13 +42,28 @@ ol.list {
   font-size: 25px;
   background:  #79F5FE;
 }
+figure {
+  border: 2px solid black;
+  background:  #E7F42D
+}
+img {
+  max-width: 100%
+  height: auto;
+}
+
 figure.section-image {
-  background: #E7F42D;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px
   border: 3px solid #ffffff
   max-width: 100%
 }
 figure#main-image {
   background:  #E7F42D;
-  max-width: 100%
+  max-width: 100%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 grid-column-start: auto;
